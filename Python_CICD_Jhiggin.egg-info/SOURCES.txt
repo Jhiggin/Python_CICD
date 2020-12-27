@@ -1,0 +1,8 @@
+README.md
+setup.py
+Python_CICD_Jhiggin.egg-info/PKG-INFO
+Python_CICD_Jhiggin.egg-info/SOURCES.txt
+Python_CICD_Jhiggin.egg-info/dependency_links.txt
+Python_CICD_Jhiggin.egg-info/top_level.txt
+tests/__init__.py
+tests/test_full_name.py
